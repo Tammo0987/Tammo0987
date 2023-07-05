@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tammo
 
-+ 🎓 I am currently studying computer science at the University of Bremen
++ 🎓 I studied computer science at the University of Bremen
 + 🔎 Interested in JVM technologies
 + 📪 Reach out to me on [Twitter](https://twitter.com/Tammo0987)
 
